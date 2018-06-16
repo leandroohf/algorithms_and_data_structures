@@ -16,7 +16,7 @@ void makeRandomArray(std::vector<int> &arr, int a, int b){
 
   time_t t;
   
-  /* Intializes random number generator */
+  /* Initializes random number generator */
   srand((unsigned) time(&t));
   
   for(int i= 0 ; i < arr.size() ; i++ ) {  
@@ -26,7 +26,6 @@ void makeRandomArray(std::vector<int> &arr, int a, int b){
   }
 }
 
-// A utility function to swap two elements
 void swap(int* a, int* b)
 {
     int t = *a;
@@ -34,7 +33,7 @@ void swap(int* a, int* b)
     *b = t;
 }
 
-int sortPivot( std::vector<int> &arr, int leftIndex, int rightIndex){
+int movePivotToPosition( std::vector<int> &arr, int leftIndex, int rightIndex){
 
   int pivotIndex = rightIndex; // last position
   int pivot = arr[pivotIndex];
@@ -94,7 +93,7 @@ void quicksort( std::vector<int> &arr, int leftIndex, int rightIndex){
   
   if(leftIndex < rightIndex){
 
-    pivotIndex = sortPivot(arr, leftIndex, rightIndex);
+    pivotIndex = movePivotToPosition(arr, leftIndex, rightIndex);
     
     // split array in left n right partittion
     //left

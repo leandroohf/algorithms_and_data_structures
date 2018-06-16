@@ -64,6 +64,9 @@ To run:
 ./quick
 ```
 
+![screenshot](quicksort_terminal.png)
+
+
 # Merge Sort
 
     **TODO**
