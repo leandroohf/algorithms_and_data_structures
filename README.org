@@ -18,6 +18,7 @@
   compare elements form the left partition to element of the right
   partion and this reduze a lot the over all number of comparison.*
      
+  #+ATTR_ORG: :width 200
   [[file:images/quick_sort_pivot.png]]
 
   * quicksort utilizes recurssion in the two parts of the arrays
