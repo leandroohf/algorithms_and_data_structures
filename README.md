@@ -17,11 +17,11 @@
   compare elements form the left partition to element of the right
   partion and this reduze a lot the over all number of comparison.*
      
-  <img src="images/quick_sort_pivot.png" width="400"/>
+  <img src="images/quick_sort_pivot.png" width="300"/>
    
   * quicksort utilizes recurssion in the two parts of the arrays
 
-  <img src="images/quick_sort_recursion.png" width="400"/>
+  <img src="images/quick_sort_recursion.png" width="300"/>
   
   Quicksort is not always the best algorithm. When the array is
   already order or almost order he perform like buble sort $O(n^2)$.
@@ -54,5 +54,5 @@
    
    ```sh
    # Create and random array of size 7 and sort it  
-   ./quick/
+   ./quick
    ```
