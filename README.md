@@ -64,8 +64,7 @@ To run:
 ./quick
 ```
 
-![screenshot](quicksort_terminal.png)
-
+<img src="images/quicksort_terminal.png" width="200"/>
 
 # Merge Sort
 
