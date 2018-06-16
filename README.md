@@ -46,23 +46,23 @@ My notes and code about the main algorithm and data structures.
   
 ### Code
 
-    See: [here](quicksort.c)
-    See: <a href="quicksort.c">here</a>
-   To compile the code 
+See: [here](quicksort.c)
+See: <a href="quicksort.c">here</a>
+To compile the code 
 
-   ```sh
-   g++ -Wall quicksort.c -o quick
-   
-   # With debug information
-   g++ -g -DDEBUG -Wall quicksort.c -o quick
-   ```
+```sh
+g++ -Wall quicksort.c -o quick
 
-   To run:
-   
-   ```sh
-   # Create and random array of size 7 and sort it  
-   ./quick
-   ```
+# With debug information
+g++ -g -DDEBUG -Wall quicksort.c -o quick
+```
+
+To run:
+
+```sh
+# Create and random array of size 7 and sort it  
+./quick
+```
 
 # Merge Sort
 
