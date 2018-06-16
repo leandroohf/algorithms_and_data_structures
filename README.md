@@ -43,6 +43,8 @@ My notes and code about the main algorithm and data structures
   
 ### Code
 
+    See: [quicksort.c](quicksort.c)
+
    To compile the code 
 
    ```sh
