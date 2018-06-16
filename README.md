@@ -1,4 +1,6 @@
 
+My notes and code about the main algorithm and data structures
+
 #  Quicksort
   
   **WIP**
@@ -17,11 +19,11 @@
   compare elements form the left partition to element of the right
   partion and this reduze a lot the over all number of comparison.*
      
-  <img src="images/quick_sort_pivot.png" width="300"/>
+  <img src="images/quick_sort_pivot.png" width="200"/>
    
   * quicksort utilizes recurssion in the two parts of the arrays
 
-  <img src="images/quick_sort_recursion.png" width="300"/>
+  <img src="images/quick_sort_recursion.png" width="200"/>
   
   Quicksort is not always the best algorithm. When the array is
   already order or almost order he perform like buble sort $O(n^2)$.
