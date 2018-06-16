@@ -56,3 +56,11 @@
    # Create and random array of size 7 and sort it  
    ./quick
    ```
+
+# Merge Sort
+
+    **TODO**
+    
+# Binary Serach
+
+    **TODO**
