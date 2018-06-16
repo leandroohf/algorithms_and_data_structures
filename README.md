@@ -73,3 +73,10 @@ To run:
 # Binary Serach
 
     **TODO**
+
+# Notes
+
+The author believes that share code and knowledge is awesome.  Feel
+free to share and modify this piece of code. But don't be impolite and
+remember to cite the author and give him his credits.
+
