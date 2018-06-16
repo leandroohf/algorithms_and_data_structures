@@ -47,7 +47,7 @@ My notes and code about the main algorithm and data structures.
 ### Code
 
 See: [here](quicksort.c)
-See: <a href="quicksort.c">here</a>
+
 To compile the code 
 
 ```sh
