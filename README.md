@@ -39,7 +39,7 @@
   * https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313
   * https://medium.com/basecs/pivoting-to-understand-quicksort-part-2-30161aefe1d3
   
-## Code
+### Code
 
    To compile the code 
 
