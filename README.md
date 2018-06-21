@@ -13,13 +13,15 @@ My notes and code about the main algorithm and data structures.
     * left: all elements are smaller than pivot
     * right: all elements are bigger than the pivot
   
-  
   *The algorithm makes sure that even though each partition is not
   fully sorted, the elements are in the correct order in relation to
   the pivot. That is the power of the quicksort, it is never necessary
   to compare elements from the left partition with the elements of the
   right partition and this reduces to the overall number of
-  comparison.*
+  comparison.* Because of that the quicksort performance can be
+  affected by the choice of the pivot. If the pivot split small
+  partitions left or right either way, the algorithm will still make
+  many comparisons.
        
   <img src="images/quick_sort_pivot.png" width="200"/>
    
@@ -31,10 +33,19 @@ My notes and code about the main algorithm and data structures.
   already ordered or almost ordered it performs like **bubble** sort
   $O(n^2)$.
 
-  * Space order: $O(n)$  
+  * Space order: $O(1)$  
+  
+      Quicksort operates directly on the inputted data by swapping
+      elements, and only needs a tiny bit of extra space in
+      memory — usually a constant amount of space.
+  
   * Order  
     * worst: $O(n^ 2)$
+    
+        The array is ordered or almost ordered
+    
     * average: $O(n log(n))$
+        
     * best: $O(n log(n))$
 
   Quicksort can be even optimize by running the recursive calls in
