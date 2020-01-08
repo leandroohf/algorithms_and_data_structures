@@ -2,8 +2,6 @@
 My notes and code about the main algorithm and data structures.
 
 #  Quicksort
-  
-  **WIP**
 
   * Quciksort utilizes the divide to conqueror approach
   * Works with the concept of pivot: The pivot can be any of your
@@ -68,7 +66,7 @@ g++ -Wall quicksort.c -o quick
 g++ -g -DDEBUG -Wall quicksort.c -o quick
 ```
 
-To run:
+To run: 
 
 ```sh
 # Create and random array of size 7 and sort it  
@@ -81,9 +79,9 @@ To run:
 
     **TODO**
     
-# Binary Serach
+# Binary Search
 
-    **TODO**
+    See notebook: [Binary Search](binary_search.ipynb)
 
 # Notes
 
