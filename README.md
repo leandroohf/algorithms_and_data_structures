@@ -81,7 +81,8 @@ To run:
     
 # Binary Search
 
-    See notebook: [Binary Search](binary_search.ipynb)
+    See notebook: [Binary Search](./binary_search.ipynb)
+    <a href="binary_search.ipynb">BInary Search</a>
 
 # Notes
 
