@@ -84,6 +84,13 @@ To run:
     See notebook: [Binary Search](./binary_search.ipynb)
     <a href="binary_search.ipynb">BInary Search</a>
 
+
+# Graph
+
+    See notebook: [Graph](./graph.ipynb)
+    <a href="graph.ipynb">Graph</a>
+
+
 # Notes
 
 The author believes that share code and knowledge is awesome.  Feel
