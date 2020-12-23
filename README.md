@@ -77,19 +77,18 @@ To run:
 
 # Merge Sort
 
-    **TODO**
+**TODO**
     
 # Binary Search
 
-    See notebook: [Binary Search](./binary_search.ipynb)
-    <a href="binary_search.ipynb">BInary Search</a>
+See notebook: [Binary Search](./binary_search.ipynb)
+<a href="binary_search.ipynb">BInary Search</a>
 
 
 # Graph
 
-    See notebook: [Graph](./graph.ipynb)
-    <a href="graph.ipynb">Graph</a>
-
+See notebook: [Graph](./graph.ipynb)
+<a href="graph.ipynb">Graph</a>
 
 # Notes
 
