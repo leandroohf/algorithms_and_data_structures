@@ -83,6 +83,11 @@ To run:
 
 See notebook: [Binary Search](./binary_search.ipynb)
 
+
+# Binary Tree and Binary Search Tree
+
+See notebook: [Binary Search_Tree](./binary_search_tree.ipynb)
+
 # Graph
 
 See notebook: [Graph](./graph.ipynb)
