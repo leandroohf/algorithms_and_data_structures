@@ -77,7 +77,7 @@ To run:
 
 # Merge Sort
 
-**TODO**
+See notebook: [Sorting algorithms](./sorting.ipynb)
     
 # Binary Search
 
