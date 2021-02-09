@@ -83,7 +83,6 @@ See notebook: [Sorting algorithms](./sorting.ipynb)
 
 See notebook: [Binary Search](./binary_search.ipynb)
 
-
 # Binary Tree and Binary Search Tree
 
 See notebook: [Binary Search_Tree](./binary_search_tree.ipynb)
