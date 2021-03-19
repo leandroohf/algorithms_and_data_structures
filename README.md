@@ -93,7 +93,7 @@ See notebook: [Graph](./graph.ipynb)
 
 # Stacks and Queues
 
-See notebook: [Binary Search_Tree](./linear_data_structure.ipynb)
+See notebook: [linear_data_structure](./linear_data_structure.ipynb)
 
 # Notes
 
