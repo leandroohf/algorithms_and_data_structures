@@ -91,6 +91,9 @@ See notebook: [Binary Search_Tree](./binary_search_tree.ipynb)
 
 See notebook: [Graph](./graph.ipynb)
 
+# Stacks and Queues
+
+See notebook: [Binary Search_Tree](./linear_data_structure.ipynb)
 
 # Notes
 
